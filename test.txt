@@ -2,3 +2,4 @@ Hello there.
 Edited this file for demo.
 Added a very important change.
 Added cool feature.
+Hey, we fixed the bug!!!
